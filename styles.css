@@ -1,0 +1,12 @@
+.imgcentral{
+width: 1349px;
+height: 670px;
+position: relative;
+}
+.titulocentral{
+    position: absolute;
+    margin-bottom: 10cm;
+}
+.secctitle{
+    background-color: gray;
+}
